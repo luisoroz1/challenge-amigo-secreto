@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,17 +21,23 @@
         <section class="input-section">
             <h2 class="section-title">Digite el nombre de sus amigos</h2>
             <div class="input-wrapper">
-                <input type="text" id="amigo" class="input-name" placeholder="Escribe un nombre">
+                <input type="text" id="nombre" class="input-name" placeholder="Escribe tu nombre y apellido" value="" autocomplete="off">
                 <button class="button-add" onclick="agregarAmigo()">Añadir</button>
             </div>
-           
+
             <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
+            <p id="mensaje-participantes" class="total-participants-message"></p>
             <ul id="resultado" class="result-list" aria-live="polite"></ul>
+            <p id="mensaje-finalizado" class="finalizado-message"></p>
 
             <div class="button-container">
-                <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
+                <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto" disabled>
                     <img src="assets/play_circle_outline.png" alt="Ícono para sortear">
                     Sortear amigo
+                </button>
+                <button class="button-reset" onclick="iniciarNuevoJuego()" aria-label="Iniciar nuevo juego" disabled>
+                    <img src="assets/reiniciar.png" alt="Ícono para reiniciar">
+                    Iniciar nuevo juego
                 </button>
             </div>
         </section>
