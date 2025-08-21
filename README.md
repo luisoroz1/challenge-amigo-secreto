@@ -40,4 +40,4 @@ https://luisoroz1.github.io/challenge-amigo-secreto/
 
 # Licencia 📜
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-"Esta es una prueba de 'commit'."
+
