@@ -1,7 +1,7 @@
-# ¡Bienvenido a tu aplicación de **Amigo Secreto 🎁**!  
+# ¡Bienvenido a la aplicación de **Amigo Secreto 🎁**!  
 
 # Objetivos 🎯
-Crear una aplicación web que permita a los usuarios realizar un sorteo de "Amigo Secreto" de manera fácil y rápida.
+Crear una aplicación web que permita a los usuarios realizar un sorteo de "Amigo Secreto".
 
 # Funcionalidades 🛠️
 - Agregar nombres a una lista.
@@ -28,7 +28,6 @@ Crear una aplicación web que permita a los usuarios realizar un sorteo de "Amig
 
 # Acceso al proyecto 🔗
 Puedes acceder al proyecto a través de este enlace: [Amigo Secreto] https://github.com/luisoroz1/challenge-amigo-secreto_esp-main
-
 
 
 # Notas adicionales 📝
