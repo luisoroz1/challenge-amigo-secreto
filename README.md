@@ -35,6 +35,9 @@ Este proyecto forma parte del Oracle Next Education y del Curso de Practicando L
 
 Este proyecto, se puede modificar para agregar más funcionalidades, validaciones, restricciones, cualquier aporte será bienvenido.
 
+# Probar la aplicación 🔍
+
+
 # Licencia 📜
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
